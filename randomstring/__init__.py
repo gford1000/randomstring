@@ -1,1 +1,1 @@
-from .randstr import RandomString
+from .randstr import RandString
